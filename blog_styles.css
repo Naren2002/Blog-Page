@@ -1,0 +1,105 @@
+.top-post-card{
+    border: 0;
+    font-family: 'Raleway';
+}
+
+.top-post-card .card-title{
+    font-weight: 800;
+}
+
+.top-post-side-text{
+    position: relative;
+    top: 5%;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+.top-posts-title{
+    font-weight: bold;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    padding-left: 8px;
+    border-radius: 2px;
+}
+
+.recent-post-card .card{
+    border: 0;
+    font-family: 'Raleway';
+    font-size: small;
+    margin-right: -11%;
+}
+
+.recent-post-card .recent-post-img{
+    text-align: center;
+    margin: auto;
+}
+
+.recent-post-img img{
+    max-width: 75%;
+    max-height: auto;
+}
+
+.recent-post-card .card-title{
+    font-weight: 800;
+    font-size: medium;
+}
+
+.recent-post-card .card{
+    background-color: inherit;
+}
+
+.recent-posts-title{
+    font-weight: bold;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    padding-left: 8px;
+    border-radius: 2px;
+}
+
+.most-recent-post .card{
+    border: 0;
+    font-family: 'Raleway';
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.most-recent-post .card-title{
+    font-weight: 800;
+}
+
+.carousel{
+    position: relative;
+}
+
+.carousel .card{
+    border: 0;
+}
+
+.carousel .card-body{
+    font-family: 'Raleway';
+}
+
+.carousel .card-title{
+    font-weight: 800;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    padding-left: 8px;
+    border-radius: 2px;
+}
+
+.carousel .carousel-img{
+    padding: 15px;
+}
+
+.carousel-control-prev{
+    margin-left: -14%;
+}
+
+.carousel-control-next{
+    margin-right: -14%;
+}
+
