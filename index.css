@@ -1,0 +1,60 @@
+#canvas {
+    display: absolute;
+}
+
+.content {
+    max-height: 14em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.item {
+    padding: 0px;
+    size: 130%;
+    margin-left:4.1%;
+    margin-right: 4.1%;
+}
+
+#item-full {
+    height: 80%;
+    width: 80%;
+    display: relative;
+}
+
+.blog-image{
+    width: inherit;
+    border-radius: 10px;
+}
+
+.blog-author{
+    margin: 10px 10px 10px 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.blog-title{
+    color: black;
+    margin: 10px 10px 10px 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: all 2s;
+}
+
+.blog-title:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.blog-summary{
+    margin: 10px 10px 10px 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.blog-posts{
+    margin-top: 50px;
+}
